@@ -1,0 +1,16 @@
+* {
+  font-family: sans-serif;
+}
+.songname {
+  font-style: italic;
+}
+span {
+  font-style: italic;
+}
+body {
+  background-color: lightskyblue;
+}
+input[type="Submit"] {
+  background-color: black;
+  color: white;
+}
